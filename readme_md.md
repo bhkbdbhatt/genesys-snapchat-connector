@@ -170,3 +170,5 @@ docker run -d -p 3000:3000 --env-file .env --name snapchat-connector genesys-sna
    - **Secret Token Header**: `x-genesys-token`
    - **Secret Token**: Matches `GENESYS_OUTBOUND_SECRET` in `.env`
 3. Copy the generated **Integration ID** into `GENESYS_INTEGRATION_ID` in your environment settings.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/bhargavbhatt)
