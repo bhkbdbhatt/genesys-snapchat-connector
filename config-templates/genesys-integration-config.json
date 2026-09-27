@@ -1,0 +1,7 @@
+{
+    "name": "Snapchat for Business Integration",
+    "description": "Custom Open Messaging Integration connecting Snapchat Business API with Genesys Cloud",
+    "outboundNotificationWebhookUrl": "https://your-connector-domain.com/webhooks/genesys",
+    "outboundNotificationWebhookSignatureSecretHeader": "x-genesys-token",
+    "outboundNotificationWebhookSignatureSecret": "your_genesys_outbound_webhook_token"
+}
